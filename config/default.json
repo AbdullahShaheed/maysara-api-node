@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "myPrivateKey",
+  "requiresAuth": true,
+  "db_dev": "mongodb://localhost/maysara",
+  "db": "mongodb+srv://maysara-user:1234@maysara.jpgpr.mongodb.net/maysara?retryWrites=true&w=majority"
+}
